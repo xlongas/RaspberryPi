@@ -1,4 +1,4 @@
-/* A callback function example Xavier*/
+/* A callback function example */
 
 #include<iostream>
 using namespace std;
